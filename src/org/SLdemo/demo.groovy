@@ -1,4 +1,4 @@
-package org.SLdemo
+
 
 class HelloWorld {
     def sayHello() {
